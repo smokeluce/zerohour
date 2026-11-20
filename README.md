@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/github/license/smokeluce/zerohour)](LICENSE)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Platform: Windows](https://img.shields.io/badge/platform-windows-0078D4)](https://github.com/smokeluce/zerohour/releases)
 [![Latest release](https://img.shields.io/github/v/release/smokeluce/zerohour)](https://github.com/smokeluce/zerohour/releases/latest)
 [![Last commit](https://img.shields.io/github/last-commit/smokeluce/zerohour)](https://github.com/smokeluce/zerohour/commits/main)
@@ -31,4 +32,5 @@ Add `dist` to your PATH and call `zerohour` from anywhere.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
 
